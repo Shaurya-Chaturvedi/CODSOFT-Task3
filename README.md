@@ -17,7 +17,7 @@ It supports basic arithmetic operations and also includes a **dark mode toggle**
 
 ## 🚀 Live Preview
 
-Live Link : [Your Live Link Here](https://your-deployment-link.com)
+Live Link : [Your Live Link Here]( https://shaurya-chaturvedi.github.io/CODSOFT-Task3/)
 
 ---
 
